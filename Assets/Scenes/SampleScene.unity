@@ -711,7 +711,7 @@ MonoBehaviour:
   txtDisplay: {fileID: 1451904457}
   txtDisplay1: {fileID: 1879144258}
   txtDisplay2: {fileID: 1576492744}
-  timeRemaining: 10
+  timeRemaining: 20
 --- !u!1 &1095329891
 GameObject:
   m_ObjectHideFlags: 0
