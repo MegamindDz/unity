@@ -7,7 +7,11 @@ public class MyScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Hello World");
+        
+        int x = 10;
+        int y = 20;
+        int z = x+y;
+        Debug.Log(z);
     }
 
    
