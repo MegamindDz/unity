@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Wooden Treasure Chest/Scenes/Wooden Treasure Chests.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
